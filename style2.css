@@ -387,7 +387,7 @@ footer{
     margin-top: 2em;
     visibility: hidden;
 }
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:500px) {
     .main-nav{
         width: 100%;
         margin: 0 auto;
@@ -431,7 +431,7 @@ footer{
     .first-btns{
         width: 100%;
         margin: 0;
-        padding:0 7em;
+        padding:0 5em;
     }
     .btn1, .btn2{
         padding: 0.9em;
@@ -443,7 +443,7 @@ footer{
         padding: 2em 1.3em;
     }
     .line1{
-        margin-left: 80%;
+        margin-left: 60%;
         margin-top: -4.7em;
         margin-bottom: 0;
     }
