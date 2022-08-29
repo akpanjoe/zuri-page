@@ -420,6 +420,7 @@ footer{
     .box1 h1{
         width: 100%;
         margin: 0;
+        padding: 0.5em;
         text-align: center;
         font-size: 2em;
     }
@@ -431,8 +432,8 @@ footer{
         text-align: center;
     }
     .first-btns{
-        width: 80%;
-        margin-left: 4em;
+        width: 100%;
+        margin-left: 5em;
     }
     .btn1, .btn2{
         padding: 0.9em;
@@ -445,7 +446,7 @@ footer{
     }
     .line1{
         margin-left: 40%;
-        margin-top: -2.5em;
+        margin-top: -3.5em;
         margin-bottom: 0;
     }
     .line1 img{
