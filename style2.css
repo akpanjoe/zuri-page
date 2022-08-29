@@ -494,6 +494,7 @@ footer{
     }
     .countries img{
         width: 2em;
+        margin: 0;
     }
     .box4-img{
         width: 90%;
