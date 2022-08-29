@@ -154,7 +154,7 @@ span{
 .line2{
     mix-blend-mode: soft-light!important;
     position: absolute;
-    top: 75%;
+    top: 68%;
     right: 0;
     z-index: -1;
 }
@@ -431,14 +431,14 @@ footer{
     .box1-p{
         width:100%;
         margin: 0;
-        font-size: 0.9em;
+        font-size: 0.99em;
         padding-right: 0;
-        padding: 0.3em;
+        padding: 0.1em;
         line-height: 1.5em;
         text-align: center;
     }
     .first-btns{
-        margin-left: 3.3em;
+        margin-left: 3.5em;
     }
     .btn1, .btn2{
         padding: 0.9em;
