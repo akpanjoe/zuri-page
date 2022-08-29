@@ -389,8 +389,8 @@ footer{
     visibility: hidden;
 }
 @media only screen and (max-width:500px) {
-    .main-nav{
-        width: 100%;
+  .main-nav{
+        width: 100vw;
         margin: 0;
         padding-bottom: -4em;
     }
@@ -407,7 +407,7 @@ footer{
     .section1{
         width: 100%;
         margin: 0;
-        padding: 0;
+        padding: 0.5em;
     }
     .section1-flex{
         width: 100%;
@@ -418,20 +418,21 @@ footer{
         flex-direction: column;
     }
     .box1 h1{
+        width: 100%;
         margin: 0;
         text-align: center;
-        font-size: 2.2em;
-        padding: 1em;
+        font-size: 2em;
     }
     .box1-p{
+        margin: 0;
         font-size: 0.9em;
-        padding:0.5em 2em;
+        padding:0.5em 2.5em;
         line-height: 1.5em;
         text-align: center;
     }
     .first-btns{
-        width: 75%;
-        margin-left: 4.5em;
+        width: 80%;
+        margin-left: 4em;
     }
     .btn1, .btn2{
         padding: 0.9em;
@@ -440,11 +441,11 @@ footer{
     .box2-img{
         width: 100%;
         margin: 0;
-        padding: 2em 2em;
+        padding: 2em 1.5em;
     }
     .line1{
-        margin-left: 59%;
-        margin-top: -4.7em;
+        margin-left: 40%;
+        margin-top: -2.5em;
         margin-bottom: 0;
     }
     .line1 img{
@@ -486,7 +487,6 @@ footer{
     .countries{
         display: flex;
         gap: 0.9em;
-
     }
     .countries img{
         width: 2em;
@@ -494,7 +494,6 @@ footer{
     .icons{
          width:100% ;
          padding: 0;
-     
     }
     .box4-img{
         width: 95%;
